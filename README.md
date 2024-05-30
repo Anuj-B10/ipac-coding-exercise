@@ -43,3 +43,7 @@ The longest path from node 0 is to node 3 with a distance of 2
 This indicates that the longest path from node `0` in the graph reaches node `3` with a distance of `2` edges.
 
 Note: If the source node doesn't have any outgoing nodes, the result will be a distance of 0 to itself.
+
+## References
+
+[Longest Path in a Directed Acyclic Graph](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
